@@ -1,4 +1,4 @@
-Hey there, I'm Ruan.
+<h3>Hey there, I'm Ruan.</h3>
 
 
 Hi, I'm Ruan Miguel, a web development student from Orlândia, Brazil.
@@ -9,7 +9,7 @@ Hi, I'm Ruan Miguel, a web development student from Orlândia, Brazil.
      at a B2 level</li>
      <li>My hobbies include books, movies, and longo walks;</li>
 </ul>
-Currently, I'm learning and working with the following:
+<h3>Currently, I'm learning and working with the following:</h3>
 
 Languages and tools:
  Languages and Tools:
