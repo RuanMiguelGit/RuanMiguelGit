@@ -12,7 +12,6 @@ Hi, I'm Ruan Miguel, a web development student from Orlândia, Brazil.
 <h3>Currently, I'm learning and working with the following:</h3>
 
 Languages and tools:
- Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width:100%;" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width:100%;" width="40" height="40">
