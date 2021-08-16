@@ -7,7 +7,7 @@ Hi, I'm Ruan Miguel, a web development student from Orlândia, Brazil.
      <li>Currently learning Software Development at Trybe;</li>
      <li>I'm fluent in english, I also can speak french and spanish at C2 level, and german 
      at a B2 level</li>
-     <li>My hobbies include books, movies, and longo walks;</li>
+     <li>My hobbies include books, movies, and long walks;</li>
 </ul>
 <h3>Currently, I'm learning and working with the following:</h3>
 
