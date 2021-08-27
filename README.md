@@ -2,7 +2,7 @@
 
 
 Hi, I'm Ruan Miguel, a Web Developer from Orlândia, Brazil.
-<p> Every Day is a new day to learn something new </p>
+<p style="font-weight:bold"> Every Day is a new day to learn something new </p>
 <ul>
   <li>I'm a Web Developer from Brazil</li> 
      <li>I’m a Production Engineer, with technical courses in administration and accounting</li>
