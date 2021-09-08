@@ -12,6 +12,9 @@ Hi, I'm Ruan Miguel, a Web Developer from Orlândia, Brazil.
      at a B2 level</li>
      <li>My hobbies include books, movies, and long walks;</li>
 </ul>
+
+<li>Take a look in my portfolio <a href="https://ruanmiguelgit.github.io/RuanMiguel-Portifolio"/>Porfolio</a>
+
 <h3>Currently, I'm learning and working with the following:</h3>
 
 Languages and tools:
@@ -35,6 +38,6 @@ Also:
    <li> Agile Methodologies: Scrum · Kanban</li>
    
    
-<li>You can contact me by <a href="/RuanMiguelGit/RuanMiguelGit/blob/main/ruan-miguel@live.com">email</a> or <a href="https://www.linkedin.com/in/thais-quintela/" rel="nofollow">Linkedin</a> </li>
+<li>You can contact me by <a href="/RuanMiguelGit/RuanMiguelGit/blob/main/ruan-miguel@live.com">email</a> or <a href="https://www.linkedin.com/in//ruan-miguelll/" rel="nofollow">Linkedin</a> </li>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RuanMiguelGit)
