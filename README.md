@@ -5,12 +5,16 @@ Hi, I'm Ruan Miguel, a Web Developer from Orlândia, Brazil.
 <p> Every Day is a new day to learn something new </p>
 <ul>
   <li>I'm a Web Developer from Brazil</li> 
-     <li>I’m a Production Engineer, with technical courses in administration and accounting</li>
-     <li>Currently learning Software Development at Trybe;</li>
+       <li>Currently learning Software Development at Trybe;</li>
+   <li>I’m a Production Engineer, with technical courses in administration and accounting</li>
   <li>I'm passionate about languages </li>
-  <li>fluent in english, I also can speak french and spanish at C2 level, and german 
-     at a B2 level</li>
-     <li>My hobbies include books, movies, and long walks;</li>
+  <ul> 
+    <li> English - Fluent;</li>
+    <li> French - C2</li>
+    <li> Spanish - C2</li>
+    <li> German - B2 </li>
+  </ul> 
+     <li>My hobbies includes coding,books and movies/tv shows ;</li>
 </ul>
 
 <li>Take a look in my portfolio <a href="https://ruanmiguelgit.github.io/RuanMiguel-Portifolio"/>Porfolio</a>
