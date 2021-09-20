@@ -19,7 +19,7 @@ Hi, I'm Ruan Miguel, a Web Developer from Orlândia, Brazil.
 
 <li>Take a look in my portfolio <a href="https://ruanmiguelgit.github.io/RuanMiguel-Portifolio"/>Porfolio</a>
 
-<h3>Currently, I'm learning and working with the following:</h3>
+<h3>I'm also passionate about coding, Currently, I'm learning and working with the following:</h3>
 
 Languages and tools:
 <p align="center">
