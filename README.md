@@ -15,7 +15,7 @@ Olá, Eu sou o Ruan Miguel, um desenvolvedor Web de Orlândia, Brazil.
      <li>Meus Hobbys são Codar, ler e caminhar</li>
 </ul>
 
-<h3>Atualment estou estudando e trabalhando com as seguintes tecnologias :</h3>
+<h3>Atualmente estou estudando e trabalhando com as seguintes tecnologias :</h3>
 
 Linguagens e Ferramentas:
 <p align="center">
