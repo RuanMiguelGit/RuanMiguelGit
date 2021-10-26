@@ -53,12 +53,14 @@ Linguagens e Ferramentas:
 <img src="https://img.shields.io/badge/Pytest-5849be?style=for-the-badge&logo=Pytest&logoColor=white" alt="html5" style="max-width:100%;" />
  </div> 
 </div>
-e Também :
-   <li> Metodologias ágeis : Scrum · Kanban</li>
-   
-   
-<li> Contato <a href="/RuanMiguelGit/RuanMiguelGit/blob/main/ruan-miguel@live.com">email</a> or <a href="https://www.linkedin.com/in//ruan-miguelll/" rel="nofollow">Linkedin</a> </li>
-
+<div>
+   <h3>Contato </h3>
+<li> <a href="mailto:ruanmiguelps@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html5" style="max-width:100%;" />
+   </a>  <a href="https://www.linkedin.com/in//ruan-miguelll/" rel="nofollow">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html5" style="max-width:100%;" />
+   </a> </li>
+</div>
 ...............................................................................................................................................................
 
 <h3>Hey there, I'm Ruan.</h3>
@@ -117,10 +119,13 @@ Languages and tools:
 <img src="https://img.shields.io/badge/Pytest-5849be?style=for-the-badge&logo=Pytest&logoColor=white" alt="html5" style="max-width:100%;" />
  </div> 
 </div>
-Also:
-   <li> Agile Methodologies: Scrum · Kanban</li>
-   
-   
-<li>You can contact me by <a href="/RuanMiguelGit/RuanMiguelGit/blob/main/ruan-miguel@live.com">email</a> or <a href="https://www.linkedin.com/in//ruan-miguelll/" rel="nofollow">Linkedin</a> </li>
+<div>
+   <h3>Contato </h3>
+<li> <a href="mailto:ruanmiguelps@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html5" style="max-width:100%;" />
+   </a>  <a href="https://www.linkedin.com/in//ruan-miguelll/" rel="nofollow">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html5" style="max-width:100%;" />
+   </a> </li>
+</div>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RuanMiguelGit)
