@@ -20,28 +20,38 @@ Olá, Eu sou o Ruan Miguel, um desenvolvedor Web de Orlândia, Brazil.
 Linguagens e Ferramentas:
 <p align="center">
  <div style="background-color:black">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" style="max-width:100%;" width="40" height="40">
-<img src="https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png" alt="git" style="max-width:100%;" width="40" height="40">
-<img src="https://www.seekpng.com/png/detail/80-803529_vector-javascript-node-js-jpg-black-and-white.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" alt="Javascript" height="50" width="50" style="vertical-align:top; margin:4px">
-<img src="https://i.ytimg.com/vi/wVo-UMit5Ig/maxresdefault.jpg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/812/1*J6XjrA6Zb6TwzQ-imPVc_A.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/1400/1*Nnu-OC1BbymgvpOiY9nvwg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" alt="jest" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/4253eb6921d60a216772940978dea3a0cf2113f2f29b5545720d3b5b6960e467/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667" alt="mocha" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
-</p>
+<div>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="html5" style="max-width:100%;" >
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="html5" style="max-width:100%;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="max-width:100%;">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html5" style="max-width:100%;">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="html5" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="html5" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="html5" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="html5" style="max-width:100%;"/>
+ </div>
+ <div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="html5" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="html5" style="max-width:100%;"/>
+ </div>
+<div>
+ <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Sequelize-5849be?style=for-the-badge&logo=Sequelize&logoColor=white" alt="html5" style="max-width:100%;" />
+ </div>
+ <div>
+ <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Chai-%234ea94b.svg?style=for-the-badge&logo=chai&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Sinon-010101?&style=for-the-badge&logo=Sinon&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Pytest-5849be?style=for-the-badge&logo=Pytest&logoColor=white" alt="html5" style="max-width:100%;" />
+ </div> 
 </div>
 e Também :
    <li> Metodologias ágeis : Scrum · Kanban</li>
@@ -74,28 +84,38 @@ Hi, I'm Ruan Miguel, a Web Developer from Orlândia, Brazil.
 Languages and tools:
 <p align="center">
  <div style="background-color:black">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width:100%;" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" style="max-width:100%;" width="40" height="40">
-<img src="https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png" alt="git" style="max-width:100%;" width="40" height="40">
-<img src="https://www.seekpng.com/png/detail/80-803529_vector-javascript-node-js-jpg-black-and-white.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" alt="Javascript" height="50" width="50" style="vertical-align:top; margin:4px">
-<img src="https://i.ytimg.com/vi/wVo-UMit5Ig/maxresdefault.jpg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/812/1*J6XjrA6Zb6TwzQ-imPVc_A.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/1400/1*Nnu-OC1BbymgvpOiY9nvwg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" alt="jest" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/4253eb6921d60a216772940978dea3a0cf2113f2f29b5545720d3b5b6960e467/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667" alt="mocha" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
-</p>
+<div>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="html5" style="max-width:100%;" >
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="html5" style="max-width:100%;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="max-width:100%;">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html5" style="max-width:100%;">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="html5" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="html5" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="html5" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="html5" style="max-width:100%;"/>
+ </div>
+ <div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="html5" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="html5" style="max-width:100%;"/>
+ </div>
+<div>
+ <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Sequelize-5849be?style=for-the-badge&logo=Sequelize&logoColor=white" alt="html5" style="max-width:100%;" />
+ </div>
+ <div>
+ <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Chai-%234ea94b.svg?style=for-the-badge&logo=chai&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Sinon-010101?&style=for-the-badge&logo=Sinon&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Pytest-5849be?style=for-the-badge&logo=Pytest&logoColor=white" alt="html5" style="max-width:100%;" />
+ </div> 
 </div>
 Also:
    <li> Agile Methodologies: Scrum · Kanban</li>
