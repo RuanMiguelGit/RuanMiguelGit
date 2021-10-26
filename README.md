@@ -1,18 +1,16 @@
 <h3>Olá como vai , Eu sou o  Ruan.</h3>
 
-Olá, Eu sou o Ruan Miguel, um desenvolvedor Web de Orlândia, Brazil.
-<p> Todo dia é um dia para aprender algo novo </p>
+Olá, Eu sou o Ruan Miguel, um Fullstack Web Developer  do Brazil.
 <ul> 
-   <li>Atualmente aprendendo desenvolvimento de Software na Trybe;</li>
    <li>Sou um Engenheiro de Produção de formação</li>
-  <li>Sou apaixonado por idiomas:</li>
-  <ul> 
+   <li>Atualmente aprendendo desenvolvimento de Software na Trybe;</li>
+  <li>Sou um profissional trilíngue:</li>
+   <ul> 
     <li> Inglês - Fluente;</li>
     <li> Francês - Avançado</li>
     <li> Espanhol - Avançado </li>
     <li> Alemão - intermediário </li>
   </ul> 
-     <li>Meus Hobbys são Codar, ler e caminhar</li>
 </ul>
 
 <h3>Atualmente estou estudando e trabalhando com as seguintes tecnologias :</h3>
@@ -65,19 +63,17 @@ e Também :
 
 <h3>Hey there, I'm Ruan.</h3>
 
-Hi, I'm Ruan Miguel, a Web Developer from Orlândia, Brazil.
-<p> Every Day is a new day to learn something new </p>
+Hi, I'm Ruan Miguel, a Web Developer from Brazil.
 <ul> 
        <li>Currently learning Software Development at Trybe;</li>
    <li>I’m a Production Engineer, with technical courses in administration and accounting</li>
-  <li>I'm passionate about languages </li>
+  <li>I'am a trilingual professional </li>
   <ul> 
     <li> English - Fluent;</li>
-    <li> French - C2</li>
-    <li> Spanish - C2</li>
-    <li> German - B2 </li>
+    <li> French - Advanced</li>
+    <li> Spanish - Advanced</li>
+    <li> German - intermediary </li>
   </ul> 
-     <li>My hobbies includes coding,books and movies/tv shows ;</li>
 </ul>
 
 
