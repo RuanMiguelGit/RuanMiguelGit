@@ -55,11 +55,11 @@ Linguagens e Ferramentas:
 </div>
 <div>
    <h3>Contato </h3>
-<li> <a href="mailto:ruanmiguelps@gmail.com">
+ <a href="mailto:ruanmiguelps@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html5" style="max-width:100%;" />
    </a>  <a href="https://www.linkedin.com/in//ruan-miguelll/" rel="nofollow">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html5" style="max-width:100%;" />
-   </a> </li>
+   </a> 
 </div>
 ...............................................................................................................................................................
 
@@ -121,11 +121,11 @@ Languages and tools:
 </div>
 <div>
    <h3>Contato </h3>
-<li> <a href="mailto:ruanmiguelps@gmail.com">
+<a href="mailto:ruanmiguelps@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html5" style="max-width:100%;" />
    </a>  <a href="https://www.linkedin.com/in//ruan-miguelll/" rel="nofollow">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html5" style="max-width:100%;" />
-   </a> </li>
+   </a> 
 </div>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RuanMiguelGit)
