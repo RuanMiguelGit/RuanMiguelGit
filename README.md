@@ -43,6 +43,7 @@ Linguagens e Ferramentas:
 <img src="https://img.shields.io/badge/Sequelize-5849be?style=for-the-badge&logo=Sequelize&logoColor=white" alt="html5" style="max-width:100%;" />
  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="html5" style="max-width:100%;" />
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Heroku-%234ea94b.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="html5" style="max-width:100%;" />
 
  </div>
  <div>
