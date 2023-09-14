@@ -35,11 +35,16 @@ Languages and tools:
  </div>
  <div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB" alt="html5" style="max-width:100%;" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="html5" style="max-width:100%;"/>
+ <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white" alt="html5" style="max-width:100%;"/>
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="html5" style="max-width:100%;"/>
  </div>
 <div>
- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="html5" style="max-width:100%;" />
+ <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="html5" style="max-width:100%;" />
+       <img src="https://img.shields.io/badge/laravel-6DA55F?style=for-the-badge&logo=laravel&logoColor=white" alt="html5" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/dotnet-010101?style=for-the-badge&logo=dotnet&logoColor=white" alt="html5" style="max-width:100%;" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="max-width:100%;"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="html5" style="max-width:100%;" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="html5" style="max-width:100%;" />
